@@ -21,7 +21,7 @@ title                    : "Kiyoonote"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "kiyoonnote"
-description              : " Welcome to my posts, I am a student who is interested in Agricultural Economics and Development Economics.  "
+description              : "Welcome to my posts, I am a student who is interested in Agricultural Economics and Development Economics."
 url                      : "https://kiyoonnote.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
