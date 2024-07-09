@@ -113,11 +113,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Kiyoon Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Welcome to my blog, I am a phd student who is interested in Agricultural Economics and Development Economics."
+  location         : "Seoul, Republic of Korea"
+  email            :  kiyoonkimonezerozero@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
