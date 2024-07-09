@@ -21,7 +21,7 @@ title                    : "Kiyoonote"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "kiyoonnote"
-description              : "Welcome to my posts, I am a student who is interested in Agricultural Economics and Development Economics."
+description              : #"Welcome to my posts, I am a student who is interested in Agricultural Economics and Development Economics."
 url                      : "https://kiyoonnote.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Kiyoon Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Welcome to my blog, I am a phd student who is interested in Agricultural Economics and Development Economics."
+  bio              : "Welcome to my blog! I am a PhD student with a keen interest in Agricultural Economics and Development Economics."
   location         : "Seoul, Republic of Korea"
   email            :  kiyoonkimonezerozero@gmail.com
   links:
